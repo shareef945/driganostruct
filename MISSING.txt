@@ -1,0 +1,12 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+images/D_rigano-Struct-logo-2.png
+images/Frame-7.jpg
+images/Frame-7.png
+images/Team.png
+images/div.framer-fymr0h-container.png
+images/divwhat-we-build.png
+images/image-11.png
+images/image-13.png
+images/utdVMpCGuDM8rXGh5axQAHT3TZE.jpg-1.png
+images/utdVMpCGuDM8rXGh5axQAHT3TZE.jpg-2.png
